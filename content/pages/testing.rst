@@ -1,8 +1,6 @@
 Testing tools
 =============
 
-:date: 2016-3-27 13:45
-
 * Built-in unittest_ library
 * pytest_ test runner
 * Trial_, the Twisted test-runner
