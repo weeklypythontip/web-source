@@ -40,7 +40,9 @@
 
 {% else %}
 
+    <div class="about-me">
     {{ ABOUT_ME }}
+    </div>
     <h3>Pages</h3>
     {% for page in PAGES %}
         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
