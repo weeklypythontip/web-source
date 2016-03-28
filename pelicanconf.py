@@ -26,3 +26,13 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
+
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
+ABOUT_ME = """
+Check out our <a href="https://www.facebook.com/weeklypythontip/">Facebook Page</a>.
+Every week, we post a Python tip -- a technique, a third-party package
+or a standard library module.
+Follow us, and improve your Python-fu!
+"""
