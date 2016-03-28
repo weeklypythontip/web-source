@@ -18,8 +18,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (("Moshe'z", 'https://moshez.wordpress.com/'),
-         )
+LINKS = (
+         ("Moshe'z", 'https://moshez.wordpress.com/'),
+         ("Python", 'https://python.org/'),
+         ("Python documentation", 'https://www.python.org/doc/'),
+         ("Planet Python", 'http://planetpython.org/'),
+        )
 
 # Social widget
 SOCIAL = ()
